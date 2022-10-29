@@ -1,2 +1,2 @@
 # the-goods
-Random projects I worked on "alone"/to learn.
+Random old projects I worked on "alone"/to learn.
